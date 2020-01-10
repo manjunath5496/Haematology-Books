@@ -47,6 +47,9 @@ of Haematology</a></b></li>
    
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Haematology-Books/blob/master/hae(23).pdf" style="text-decoration:none;">Atlas of Genetics and Cytogenetics in Oncology and Haematology</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Haematology-Books/blob/master/hae(24).pdf" style="text-decoration:none;">The Biology of the Blood-Cells with a Glossary of Haematological Terms</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Haematology-Books/blob/master/hae(25).pdf" style="text-decoration:none;">Blood Science: Principles and Pathology</a></b></li>
 
      
  </ul>
